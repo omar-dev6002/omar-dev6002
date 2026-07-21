@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -40,32 +38,7 @@
 <tr>
 <td width="40%" valign="top">
 
-```
-        .-----------------.
-       /  .-.  NEURAL  .-.  \
-      |  ( o )---CORE--( o ) |
-       \  '-'  UNIT   '-'  /
-        '--+----+----+---'
-     .-----|    |    |-----.
-    /      |    |    |      \
-   |    [##|####|####|##]    |
-   |    [##|####|####|##]    |
-    \      |    |    |      /
-     '-----+----+----+-----'
-        .--'    |    '--.
-       /     .--+--.     \
-      | ___.-'  |  '-.___ |
-      |/  o   o | o   o  \|
-      ||  BRAIN CIRCUIT   ||
-      |\  o   o | o   o  /|
-      | '---.___|___.---' |
-       \    /   |   \    /
-        '--+----+----+--'
-          /|    |    |\
-         ( |    |    | )
-          \|____|____|/
-           [CIRCUIT-BD]
-```
+<img src="assets/neural-core.svg" width="100%"/>
 
 </td>
 <td width="60%" valign="top">
@@ -266,12 +239,13 @@ guest@jmi-ai:~$ connect --github
 ```bash
 guest@jmi-ai:~$ connect --linkedin
 ```
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/omar-farooq-anis-b2798a382"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ```bash
 guest@jmi-ai:~$ connect --email
 ```
-<a href="mailto:omarfarooqanis@outlook.com"><img src="https://img.shields.io/badge/Email-00bfff?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/></a>
+<a href="mailto:omarfarooqanis1982@outlook.com"><img src="https://img.shields.io/badge/Outlook-00bfff?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/></a>
+<a href="mailto:omarfarooqanis6002@gmail.com"><img src="https://img.shields.io/badge/Gmail-00fff2?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 
 ```bash
 guest@jmi-ai:~$ connect --portfolio
