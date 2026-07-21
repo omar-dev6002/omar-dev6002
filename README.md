@@ -4,7 +4,7 @@
 <!-- SECTION 1 — ANIMATED HERO -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:00fff2&height=200&section=header&text=OMAR%20FAROOQ%20ANIS&fontSize=48&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=8a2be2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:00fff2&height=200&section=header&text=OMAR%20FAROOQ%20ANIS&fontSize=48&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20-%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=8a2be2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+AI+Researcher_;%3E+Machine+Learning+Engineer_;%3E+Data+Science+Enthusiast_;%3E+Building+Intelligent+Systems_;%3E+Always+Learning..._" alt="Typing SVG" />
@@ -34,7 +34,7 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
