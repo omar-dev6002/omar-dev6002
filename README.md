@@ -36,34 +36,14 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 <img src="assets/neural-core.svg" width="100%"/>
 
 </td>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-omar@jmi-ai
-────────────────────────────────────
-OS.............. AI Research Stack v2.0
-Role............ CSE (AI & Data Science) Student
-University...... Jamia Millia Islamia, New Delhi
-Focus........... Machine Learning / Deep Learning
-Learning........ LLMs · NLP · Agentic AI · RAG
-Languages........ Python, C, SQL
-Frameworks....... TensorFlow, PyTorch, Scikit-Learn
-Tools............ Git, GitHub, Antigravity, VS Code, Jupyter
-Editor Theme..... Cyberpunk Neon [Dark]
-Shell............ zsh + oh-my-neural
-────────────────────────────────────
-AI Core......... [ ONLINE  ]
-Research........ [ ACTIVE  ]
-Deployment....... [ IN PROGRESS ]
-Open Source...... [ ENABLED ]
-Curiosity........ [ MAX_LEVEL ]
-────────────────────────────────────
-```
+<img src="assets/sysinfo.svg" width="100%"/>
 
 </td>
 </tr>
@@ -126,14 +106,9 @@ Curiosity........ [ MAX_LEVEL ]
 
 ## `$ ./lab_status --verbose`
 
-```
-Machine Learning     ███████████░░  85%
-Deep Learning         █████████░░░░  75%
-Computer Vision       ████████░░░░░  65%
-Data Engineering      ██████░░░░░░░  55%
-MLOps / Deployment    ████░░░░░░░░░  35%
-Quant Finance / Algo  █████░░░░░░░░  40%
-```
+<div align="center">
+<img src="assets/labstatus.svg" width="90%"/>
+</div>
 
 <br/>
 
@@ -216,8 +191,8 @@ Quant Finance / Algo  █████░░░░░░░░  40%
 
 | 🎓 Certifications | 🔬 Research | 🏆 Hackathons | 🌐 Open Source | ✍️ Blogs |
 |:---:|:---:|:---:|:---:|:---:|
-| Google × Kaggle AI Agents Intensive | Prof. outreach @ JMI (ML/NLP) | Kaggle Agents for Good | `omar-dev6002` repos | *Coming soon* |
-| *(add more here)* | *(in progress)* | *(add hackathon wins)* | Student Performance Analyser | *(add Medium links)* |
+| Google × Kaggle 5-Day AI Agents Intensive (Vibe Coding, 2026) | Faculty outreach @ JMI — ML/NLP labs | Kaggle "Agents for Good" — Heart Disease Risk Multi-Agent System (Google ADK + MCP) | `student-performance-analyser` | *Coming soon* |
+| Andrew Ng Deep Learning Specialization *(in progress)* | Cold-email pipeline to Dr. M. Z. Ansari & Prof. S. Masood | IMC Prosperity — prep in progress | `backtest-desk` · `DSA` | *Medium articles planned* |
 
 </div>
 
