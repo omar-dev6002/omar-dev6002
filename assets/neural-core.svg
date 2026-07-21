@@ -1,0 +1,41 @@
+<svg viewBox="0 0 420 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .l { font-family: 'Courier New', monospace; font-size: 14px; fill: #00fff2; opacity: 0; }
+      .accent { fill: #8a2be2; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="420" height="560" rx="12" fill="#0d1117"/>
+  <rect x="6" y="6" width="408" height="548" rx="8" fill="none" stroke="#00fff2" stroke-opacity="0.25" stroke-width="1"/>
+
+  <text id="l1" class="l" x="20" y="40">   .-----------------.<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.00s" fill="freeze"/></text>
+  <text id="l2" class="l" x="20" y="58">  /  .-.  NEURAL  .-.  \<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.10s" fill="freeze"/></text>
+  <text id="l3" class="l" x="20" y="76"> |  ( o )---CORE--( o ) |<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.20s" fill="freeze"/></text>
+  <text id="l4" class="l" x="20" y="94">  \  '-'  UNIT   '-'  /<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.30s" fill="freeze"/></text>
+  <text id="l5" class="l" x="20" y="112">   '--+----+----+---'<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/></text>
+  <text id="l6" class="l" x="20" y="130">.-----|    |    |-----.<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/></text>
+  <text id="l7" class="l" x="20" y="148">/      |    |    |      \<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/></text>
+  <text id="l8" class="l accent" x="20" y="166">|    [##|####|####|##]    |<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/></text>
+  <text id="l9" class="l accent" x="20" y="184">|    [##|####|####|##]    |<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/></text>
+  <text id="l10" class="l" x="20" y="202">\      |    |    |      /<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/></text>
+  <text id="l11" class="l" x="20" y="220"> '-----+----+----+-----'<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/></text>
+  <text id="l12" class="l" x="20" y="238">    .--'    |    '--.<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.10s" fill="freeze"/></text>
+  <text id="l13" class="l" x="20" y="256">   /     .--+--.     \<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.20s" fill="freeze"/></text>
+  <text id="l14" class="l" x="20" y="274">  | ___.-'  |  '-.___ |<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.30s" fill="freeze"/></text>
+  <text id="l15" class="l" x="20" y="292">  |/  o   o | o   o  \|<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.40s" fill="freeze"/></text>
+  <text id="l16" class="l accent" x="20" y="310">  ||  BRAIN CIRCUIT   ||<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.50s" fill="freeze"/></text>
+  <text id="l17" class="l" x="20" y="328">  |\  o   o | o   o  /|<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.60s" fill="freeze"/></text>
+  <text id="l18" class="l" x="20" y="346">  | '---.___|___.---' |<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.70s" fill="freeze"/></text>
+  <text id="l19" class="l" x="20" y="364">   \    /   |   \    /<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.80s" fill="freeze"/></text>
+  <text id="l20" class="l" x="20" y="382">    '--+----+----+--'<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.90s" fill="freeze"/></text>
+  <text id="l21" class="l" x="20" y="400">      /|    |    |\<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.00s" fill="freeze"/></text>
+  <text id="l22" class="l" x="20" y="418">     ( |    |    | )<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.10s" fill="freeze"/></text>
+  <text id="l23" class="l" x="20" y="436">      \|____|____|/<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.20s" fill="freeze"/></text>
+  <text id="l24" class="l accent" x="20" y="454">       [CIRCUIT-BD]<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.30s" fill="freeze"/></text>
+
+  <text class="l" x="20" y="500" font-size="11" opacity="0" fill="#8a2be2">
+    STATUS: NEURAL PATHWAYS ONLINE
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.50s" fill="freeze"/>
+  </text>
+</svg>
