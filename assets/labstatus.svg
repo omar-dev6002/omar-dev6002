@@ -2,27 +2,27 @@
 <rect x="0" y="0" width="460" height="285" rx="14" fill="#0d1117"/>
 <rect x="5" y="5" width="450" height="275" rx="10" fill="none" stroke="#00fff2" stroke-opacity="0.25" stroke-width="1"/>
 <text x="20" y="40" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">Machine Learning</text>
-<rect x="175" y="28" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="28" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="187.0" dur="1s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;187.0"/></rect>
-<text x="407" y="40" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">85%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.95s" fill="freeze"/></text>
+<rect x="235" y="28" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="28" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="148.8" dur="1s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;148.8"/></rect>
+<text x="422" y="40" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">85%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.95s" fill="freeze"/></text>
 <text x="20" y="80" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">Deep Learning</text>
-<rect x="175" y="68" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="68" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="165.0" dur="1s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;165.0"/></rect>
-<text x="407" y="80" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">75%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.15s" fill="freeze"/></text>
+<rect x="235" y="68" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="68" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="131.2" dur="1s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;131.2"/></rect>
+<text x="422" y="80" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">75%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.15s" fill="freeze"/></text>
 <text x="20" y="120" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">Computer Vision</text>
-<rect x="175" y="108" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="108" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="143.0" dur="1s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;143.0"/></rect>
-<text x="407" y="120" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">65%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.35s" fill="freeze"/></text>
+<rect x="235" y="108" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="108" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="113.8" dur="1s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;113.8"/></rect>
+<text x="422" y="120" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">65%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.35s" fill="freeze"/></text>
 <text x="20" y="160" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">Data Engineering</text>
-<rect x="175" y="148" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="148" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="121.0" dur="1s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;121.0"/></rect>
-<text x="407" y="160" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">55%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.55s" fill="freeze"/></text>
+<rect x="235" y="148" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="148" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="96.2" dur="1s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;96.2"/></rect>
+<text x="422" y="160" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">55%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.55s" fill="freeze"/></text>
 <text x="20" y="200" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">MLOps / Deployment</text>
-<rect x="175" y="188" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="188" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="77.0" dur="1s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;77.0"/></rect>
-<text x="407" y="200" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">35%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.75s" fill="freeze"/></text>
+<rect x="235" y="188" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="188" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="61.2" dur="1s" begin="0.95s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;61.2"/></rect>
+<text x="422" y="200" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">35%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.75s" fill="freeze"/></text>
 <text x="20" y="240" font-family="Courier New, monospace" font-size="13" fill="#c9d1d9">Quant Finance / Algo</text>
-<rect x="175" y="228" width="220" height="14" rx="4" fill="#1c2128"/>
-<rect x="175" y="228" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="88.0" dur="1s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;88.0"/></rect>
-<text x="407" y="240" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">40%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.95s" fill="freeze"/></text>
+<rect x="235" y="228" width="175" height="14" rx="4" fill="#1c2128"/>
+<rect x="235" y="228" width="0" height="14" rx="4" fill="#00fff2"><animate attributeName="width" from="0" to="70.0" dur="1s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0;70.0"/></rect>
+<text x="422" y="240" font-family="Courier New, monospace" font-size="13" fill="#8a2be2" font-weight="bold" opacity="0">40%<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.95s" fill="freeze"/></text>
 </svg>
