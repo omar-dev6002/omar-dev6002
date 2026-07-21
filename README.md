@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-`STATUS: ONLINE` ▸ `CORE: AI/ML` ▸ `LOCATION: INDIA 🇮🇳` ▸ `UPTIME: ∞`
+`STATUS: ONLINE` ▸ `CORE: AI/ML` ▸ `LOCATION: INDIA 🇮🇳` ▸ `UPTIME: 20 Years`
 
 </div>
 
@@ -36,12 +36,12 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
 <img src="assets/neural-core.svg" width="100%"/>
 
 </td>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 <img src="assets/sysinfo.svg" width="100%"/>
 
