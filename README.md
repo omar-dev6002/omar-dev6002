@@ -56,7 +56,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=300&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=%3E+Initializing+AI+Core...+%5BOK%5D;%3E+Loading+Datasets...+%5BOK%5D;%3E+Building+Neural+Network...+%5BOK%5D;%3E+Training+Models...+%5B87%25%5D;%3E+Running+Inference...+%5BOK%5D;%3E+System+Ready.+Welcome%2C+Omar." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=300&color=00FFF2&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=180&lines=%3E+Initializing+AI+Core...+%5BOK%5D;%3E+Loading+Datasets...+%5BOK%5D;%3E+Building+Neural+Network...+%5BOK%5D;%3E+Training+Models...+%5B87%25%5D;%3E+Running+Inference...+%5BOK%5D;%3E+System+Ready.+Welcome%2C+Omar." alt="boot sequence" />
 </div>
 
 <br/>
