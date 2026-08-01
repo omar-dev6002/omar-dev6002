@@ -1,50 +1,49 @@
-<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="Courier New, monospace">
-<rect x="0" y="0" width="900" height="300" rx="14" fill="#0d1117"/>
-<rect x="5" y="5" width="890" height="290" rx="10" fill="none" stroke="#00fff2" stroke-opacity="0.25" stroke-width="1"/>
-<text x="26" y="34" fill="#c9d1d9" font-size="14">omar@jmi-ai</text>
-<line x1="24" y1="46" x2="876" y2="46" stroke="#00fff2" stroke-width="1" stroke-opacity="0.25"/>
-<text x="30" y="72" fill="#6e7681" font-size="12.5">Uptime</text>
-<text x="77.2" y="72" fill="#30363d" font-size="12.5">........</text>
-<text x="195" y="72" fill="#00fff2" font-size="12.5">20 years</text>
-<text x="30" y="96" fill="#6e7681" font-size="12.5">OS</text>
-<text x="48.4" y="96" fill="#30363d" font-size="12.5">............</text>
-<text x="195" y="96" fill="#00fff2" font-size="12.5">AI Research Stack v2.0</text>
-<text x="30" y="120" fill="#6e7681" font-size="12.5">Role</text>
-<text x="62.8" y="120" fill="#30363d" font-size="12.5">..........</text>
-<text x="195" y="120" fill="#00fff2" font-size="12.5">CSE (AI &amp; Data Science) Student</text>
-<text x="30" y="144" fill="#6e7681" font-size="12.5">University</text>
-<text x="106.0" y="144" fill="#30363d" font-size="12.5">....</text>
-<text x="195" y="144" fill="#00fff2" font-size="12.5">Jamia Millia Islamia, New Delhi</text>
-<text x="30" y="168" fill="#6e7681" font-size="12.5">Batch</text>
-<text x="70.0" y="168" fill="#30363d" font-size="12.5">.........</text>
-<text x="195" y="168" fill="#00fff2" font-size="12.5">2029</text>
-<text x="30" y="192" fill="#6e7681" font-size="12.5">Focus</text>
-<text x="70.0" y="192" fill="#30363d" font-size="12.5">.........</text>
-<text x="195" y="192" fill="#00fff2" font-size="12.5">Machine Learning / Deep Learning</text>
-<text x="470" y="72" fill="#6e7681" font-size="12.5">Learning</text>
-<text x="531.6" y="72" fill="#30363d" font-size="12.5">......</text>
-<text x="635" y="72" fill="#00fff2" font-size="12.5">LLMs . NLP . Agentic AI . RAG</text>
-<text x="470" y="96" fill="#6e7681" font-size="12.5">Languages</text>
-<text x="538.8" y="96" fill="#30363d" font-size="12.5">.....</text>
-<text x="635" y="96" fill="#00fff2" font-size="12.5">Python, C, SQL</text>
-<text x="470" y="120" fill="#6e7681" font-size="12.5">Frameworks</text>
-<text x="546.0" y="120" fill="#30363d" font-size="12.5">....</text>
-<text x="635" y="120" fill="#00fff2" font-size="12.5">TensorFlow, PyTorch, Scikit-Learn</text>
-<text x="470" y="144" fill="#6e7681" font-size="12.5">Tools</text>
-<text x="510.0" y="144" fill="#30363d" font-size="12.5">.........</text>
-<text x="635" y="144" fill="#00fff2" font-size="12.5">Git, GitHub, VS Code</text>
-<text x="470" y="168" fill="#6e7681" font-size="12.5">Shell</text>
-<text x="510.0" y="168" fill="#30363d" font-size="12.5">.........</text>
-<text x="635" y="168" fill="#00fff2" font-size="12.5">zsh + oh-my-neural</text>
-<line x1="24" y1="210" x2="876" y2="210" stroke="#00fff2" stroke-width="1" stroke-opacity="0.25"/>
-<text x="30.0" y="244" fill="#6e7681" font-size="12.5">AI Core</text>
-<text x="30.0" y="266" fill="#00fff2" font-size="12.5" font-weight="bold">[ ONLINE ]</text>
-<text x="198.0" y="244" fill="#6e7681" font-size="12.5">Research</text>
-<text x="198.0" y="266" fill="#00fff2" font-size="12.5" font-weight="bold">[ ACTIVE ]</text>
-<text x="366.0" y="244" fill="#6e7681" font-size="12.5">Deployment</text>
-<text x="366.0" y="266" fill="#8a2be2" font-size="12.5" font-weight="bold">[ IN PROGRESS ]</text>
-<text x="534.0" y="244" fill="#6e7681" font-size="12.5">Open Source</text>
-<text x="534.0" y="266" fill="#00fff2" font-size="12.5" font-weight="bold">[ ENABLED ]</text>
-<text x="702.0" y="244" fill="#6e7681" font-size="12.5">Curiosity</text>
-<text x="702.0" y="266" fill="#8a2be2" font-size="12.5" font-weight="bold">[ MAX_LEVEL ]</text>
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, monospace">
+<rect x="1" y="1" width="898" height="298" rx="10" fill="#0b0e14" stroke="#1fd0d8" stroke-width="1.5"/>
+<text x="26" y="34" fill="#3ee6ee" font-size="14">omar@jmi-ai</text>
+<line x1="24" y1="46" x2="876" y2="46" stroke="#1fd0d8" stroke-width="1" opacity="0.4"/>
+<text x="30" y="72" fill="#f2a154" font-size="12.5">Uptime</text>
+<text x="77.2" y="72" fill="#3a3f4b" font-size="12.5">........</text>
+<text x="195" y="72" fill="#25e5ee" font-size="12.5">20 years</text>
+<text x="30" y="96" fill="#f2a154" font-size="12.5">OS</text>
+<text x="48.4" y="96" fill="#3a3f4b" font-size="12.5">............</text>
+<text x="195" y="96" fill="#25e5ee" font-size="12.5">AI Research Stack v2.0</text>
+<text x="30" y="120" fill="#f2a154" font-size="12.5">Role</text>
+<text x="62.8" y="120" fill="#3a3f4b" font-size="12.5">..........</text>
+<text x="195" y="120" fill="#25e5ee" font-size="12.5">CSE (AI &amp; Data Science) Student</text>
+<text x="30" y="144" fill="#f2a154" font-size="12.5">University</text>
+<text x="106.0" y="144" fill="#3a3f4b" font-size="12.5">....</text>
+<text x="195" y="144" fill="#25e5ee" font-size="12.5">Jamia Millia Islamia, New Delhi</text>
+<text x="30" y="168" fill="#f2a154" font-size="12.5">Batch</text>
+<text x="70.0" y="168" fill="#3a3f4b" font-size="12.5">.........</text>
+<text x="195" y="168" fill="#25e5ee" font-size="12.5">2029</text>
+<text x="30" y="192" fill="#f2a154" font-size="12.5">Focus</text>
+<text x="70.0" y="192" fill="#3a3f4b" font-size="12.5">.........</text>
+<text x="195" y="192" fill="#25e5ee" font-size="12.5">Machine Learning / Deep Learning</text>
+<text x="470" y="72" fill="#f2a154" font-size="12.5">Learning</text>
+<text x="531.6" y="72" fill="#3a3f4b" font-size="12.5">......</text>
+<text x="635" y="72" fill="#25e5ee" font-size="12.5">LLMs . NLP . Agentic AI . RAG</text>
+<text x="470" y="96" fill="#f2a154" font-size="12.5">Languages</text>
+<text x="538.8" y="96" fill="#3a3f4b" font-size="12.5">.....</text>
+<text x="635" y="96" fill="#25e5ee" font-size="12.5">Python, C, SQL</text>
+<text x="470" y="120" fill="#f2a154" font-size="12.5">Frameworks</text>
+<text x="546.0" y="120" fill="#3a3f4b" font-size="12.5">....</text>
+<text x="635" y="120" fill="#25e5ee" font-size="12.5">TensorFlow, PyTorch, Scikit-Learn</text>
+<text x="470" y="144" fill="#f2a154" font-size="12.5">Tools</text>
+<text x="510.0" y="144" fill="#3a3f4b" font-size="12.5">.........</text>
+<text x="635" y="144" fill="#25e5ee" font-size="12.5">Git, GitHub, VS Code</text>
+<text x="470" y="168" fill="#f2a154" font-size="12.5">Shell</text>
+<text x="510.0" y="168" fill="#3a3f4b" font-size="12.5">.........</text>
+<text x="635" y="168" fill="#25e5ee" font-size="12.5">zsh + oh-my-neural</text>
+<line x1="24" y1="210" x2="876" y2="210" stroke="#1fd0d8" stroke-width="1" opacity="0.25"/>
+<text x="30.0" y="244" fill="#f2a154" font-size="12.5">AI Core</text>
+<text x="30.0" y="266" fill="#3ee66b" font-size="12.5" font-weight="bold">[ ONLINE ]</text>
+<text x="198.0" y="244" fill="#f2a154" font-size="12.5">Research</text>
+<text x="198.0" y="266" fill="#3ee66b" font-size="12.5" font-weight="bold">[ ACTIVE ]</text>
+<text x="366.0" y="244" fill="#f2a154" font-size="12.5">Deployment</text>
+<text x="366.0" y="266" fill="#f2a154" font-size="12.5" font-weight="bold">[ IN PROGRESS ]</text>
+<text x="534.0" y="244" fill="#f2a154" font-size="12.5">Open Source</text>
+<text x="534.0" y="266" fill="#3ee66b" font-size="12.5" font-weight="bold">[ ENABLED ]</text>
+<text x="702.0" y="244" fill="#f2a154" font-size="12.5">Curiosity</text>
+<text x="702.0" y="266" fill="#b06bf5" font-size="12.5" font-weight="bold">[ MAX_LEVEL ]</text>
 </svg>
