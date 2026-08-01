@@ -34,20 +34,15 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 <img src="assets/neural-core.svg" width="100%"/>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 <img src="assets/sysinfo.svg" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
