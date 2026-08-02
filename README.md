@@ -36,11 +36,11 @@
 
 <div align="center">
 
-<img src="assets/neural-core.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/omar-dev6002/omar-dev6002/main/assets/neural-core.svg?v=2" width="100%"/>
 
 <br/>
 
-<img src="assets/sysinfo.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/omar-dev6002/omar-dev6002/main/assets/sysinfo.svg?v=2" width="100%"/>
 
 </div>
 
@@ -102,7 +102,7 @@
 ## `$ ./lab_status --verbose`
 
 <div align="center">
-<img src="assets/labstatus.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/omar-dev6002/omar-dev6002/main/assets/labstatus.svg?v=2" width="90%"/>
 </div>
 
 <br/>
